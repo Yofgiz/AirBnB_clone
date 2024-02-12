@@ -35,7 +35,7 @@ class HBNBCommand(cmd.Cmd):
     """Defines the Holberton AirBnB interpreting the command.
 
     Attributes:
-        prompt (string): command prompt. 
+        prompt (string): command prompt.
     """
 
     prompt = "(hbnb) "
